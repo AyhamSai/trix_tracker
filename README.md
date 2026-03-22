@@ -1,16 +1,20 @@
-# trix_app
+# 🃏 Trix Counter - Card Game Score Tracker
 
-A new Flutter project.
+A practical and user-friendly mobile application designed to help Trix card game players record and calculate scores accurately, replacing traditional paper and pen.
 
-## Getting Started
+## ✨ Features
+* Intuitive UI: Clean and responsive design optimized for long gaming sessions.
+* Automatic Calculations: Real-time point summation for each player as scores are entered.
+* Game Mode Support: Supports all Trix variations including Kingdom, Complex, and Doubles.
+* Local Persistence: Uses Shared Preferences to save ongoing game data so you never lose your progress.
 
-This project is a starting point for a Flutter application.
+## 💻 Development Details
+* Language: Dart
+* Framework: Flutter
+* Architecture: Clean UI/UX focused on utility and speed.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📥 Getting Started
+1. Clone this repository.
+2. Ensure you have the Flutter SDK installed.
+3. Run flutter pub get to install dependencies.
+4. Run the app using flutter run.
